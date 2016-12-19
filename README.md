@@ -1,3 +1,4 @@
 # RISCV-Simulator
-PKU Architecture homework
+PKU Architecture homework.
+
 The code still has some bugs.
